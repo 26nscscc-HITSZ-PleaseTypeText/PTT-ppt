@@ -1,19 +1,19 @@
 <mxfile host="Electron">
   <diagram id="slide04_score" name="slide04_score">
-    <mxGraphModel dx="1135" dy="997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="650" math="0" shadow="0">
+    <mxGraphModel dx="749" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="650" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=8;" value="&lt;font face=&quot;Garamond&quot;&gt;从右图可见&lt;/font&gt;" vertex="1">
+        <mxCell id="24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=8;fillColor=#9AC7BF;" value="&lt;font face=&quot;Garamond&quot;&gt;从右图可见&lt;/font&gt;" vertex="1">
           <mxGeometry height="54" width="164" x="521" y="32" as="geometry" />
         </mxCell>
-        <mxCell id="26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=28;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=8;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 30px;&quot;&gt;对于各性能测试的IPC加速比&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 30px;&quot;&gt;有 x 项&amp;nbsp; ≥ 1.5x，y 项 ≥ 2.0x&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=28;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=8;fillColor=#FFF2CC;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 30px;&quot;&gt;对于各性能测试的IPC加速比&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 30px;&quot;&gt;有 &lt;b&gt;17 &lt;/b&gt;项&amp;nbsp; ≥ 1.5，&lt;b&gt;11&lt;/b&gt; 项 ≥ 2.0&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="88" width="404" x="685" y="101" as="geometry" />
         </mxCell>
-        <mxCell id="27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=27;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=8;" value="&lt;font face=&quot;Garamond&quot;&gt;几何平均 IPC ratio 为 1.935&lt;br&gt;同工作量下，核心吞吐表现更强&lt;/font&gt;" vertex="1">
+        <mxCell id="27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=27;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=8;fillColor=#FFF2CC;" value="&lt;font face=&quot;Garamond&quot;&gt;几何平均 IPC ratio 为 &lt;b&gt;2.498&lt;/b&gt;&lt;br&gt;同工作量下，核心吞吐表现更强&lt;/font&gt;" vertex="1">
           <mxGeometry height="92" width="404" x="685" y="205" as="geometry" />
         </mxCell>
-        <mxCell id="28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=27;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=8;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 30px;&quot;&gt;系统计数器 ratio 为 4.438&lt;br&gt;体现系统执行效率优势&lt;/font&gt;" vertex="1">
+        <mxCell id="28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=27;fontFamily=Microsoft YaHei;align=center;verticalAlign=middle;spacing=8;fillColor=#FFF2CC;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 30px;&quot;&gt;系统计数器 ratio 为 &lt;b&gt;6.052&lt;/b&gt;&lt;br&gt;体现系统执行效率优势&lt;/font&gt;" vertex="1">
           <mxGeometry height="82" width="404" x="685" y="312" as="geometry" />
         </mxCell>
         <mxCell id="Z7Rr1D5pbWHLrgH-pGs4-29" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
